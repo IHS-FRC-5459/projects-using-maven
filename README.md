@@ -26,4 +26,4 @@ let me know.
 
 Link to a [Different Readme][altreadme]
 
-[altreadme]: (strongback/README.md)
+[altreadme]: strongback/README.md
